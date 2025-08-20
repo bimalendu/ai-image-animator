@@ -2,7 +2,7 @@
 
 
 
-This is a \*\*Streamlit web application\*\* that allows users to upload multiple images (JPG or PNG), \*\*upscale them using AI\*\* (Real-ESRGAN), and \*\*combine them into an animated GIF\*\*. The app ensures aspect ratio is preserved during resizing, and allows custom frame durations.
+This is a Streamlit web application that allows users to upload multiple images (JPG or PNG), upscale them using AI (Real-ESRGAN), and combine them into an animated GIF. The app ensures aspect ratio is preserved during resizing, and allows custom frame durations.
 
 
 
@@ -38,9 +38,9 @@ Follow these steps to set up and run the app locally.
 
 ```bash
 
-git clone https://github.com/bimalendu/ai-upscale-gif-maker.git
+git clone https://github.com/bimalendu/ai-image-animator.git
 
-cd ai-upscale-gif-maker
+cd ai-image-animator
 
 uv init
 
