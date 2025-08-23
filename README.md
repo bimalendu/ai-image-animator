@@ -1,4 +1,4 @@
-\# 🧠 AI Image Upscaler \& GIF Creator
+# 🧠 AI Image Upscaler \& GIF Creator
 
 
 
@@ -10,7 +10,7 @@ This is a Streamlit web application that allows users to upload multiple images 
 
 
 
-\## ✨ Features
+## ✨ Features
 
 
 
@@ -30,7 +30,7 @@ This is a Streamlit web application that allows users to upload multiple images 
 
 
 
-\## 🔧 Installation \& Setup
+## 🔧 Installation \& Setup
 
 
 
